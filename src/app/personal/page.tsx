@@ -1,7 +1,6 @@
 "use client";
 
 import HeaderNav from "@/components/header-nav";
-import { useState } from "react";
 
 export default function PersonalPage() {
   {/* Slideshow state for Mumbai & School Years
@@ -138,7 +137,7 @@ export default function PersonalPage() {
           {/* Opening Section */}
           <div className="max-w-4xl mx-auto">
             <p className="font-serif text-base text-zinc-700 leading-relaxed">
-              If you've made it to this page, thank you for wanting to know a little more about me! :)
+              If you&apos;ve made it to this page, thank you for wanting to know a little more about me! :)
             </p>
           </div>
 
@@ -261,7 +260,7 @@ export default function PersonalPage() {
           {/* College & Independence */}
           <div className="max-w-4xl mx-auto">
             <p className="font-serif text-base leading-relaxed text-zinc-700 mb-8">
-              College brought its own set of memories and adventures. I moved away from home for the first time, to Hyderabad, and it taught me a lot. Cooking – something I'd always enjoyed as a kid, became a bigger part of my life, from late-night quick fixes to experimenting with recipes. I also traveled more, and one of the highlights was my first solo trip.
+              College brought its own set of memories and adventures. I moved away from home for the first time, to Hyderabad, and it taught me a lot. Cooking – something I&apos;d always enjoyed as a kid, became a bigger part of my life, from late-night quick fixes to experimenting with recipes. I also traveled more, and one of the highlights was my first solo trip.
             </p>
             
             {/* Photo Slideshow 3 

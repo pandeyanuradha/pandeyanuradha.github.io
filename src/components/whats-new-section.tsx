@@ -24,8 +24,6 @@ const timelineItems: TimelineItem[] = [
   }
 ];
 
-import Link from 'next/link';
-
 export function WhatsNewSection() {
   return (
     <section className="-mt-4">
