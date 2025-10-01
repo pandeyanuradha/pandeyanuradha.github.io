@@ -202,7 +202,7 @@ export default function PersonalPage() {
           {/* Fitness Journey */}
           <div className="max-w-4xl mx-auto">
             <p className="font-serif text-base leading-relaxed text-zinc-700 mb-8">
-              After high school, I walked into a gym for the first time – and I fell in love with strength training. Six years later, fitness has become a huge part of who I am. Whether it's lifting weights, running long distances, or practicing yoga, I love the energy it gives me. I even ran my first half-marathon recently and hope to do many more.
+              After high school, I walked into a gym for the first time – and I fell in love with strength training. Six years later, fitness has become a huge part of who I am. Whether it&apos;s lifting weights, running long distances, or practicing yoga, I love the energy it gives me. I even ran my first half-marathon recently and hope to do many more.
             </p>
             
             {/* Photo Slideshow 2 
@@ -318,7 +318,7 @@ export default function PersonalPage() {
           {/* Writing & Medium */}
           <div className="max-w-4xl mx-auto">
             <p className="font-serif text-base leading-relaxed text-zinc-700 mb-6 [&_a]:underline [&_a]:text-zinc-900 [&_a:hover]:text-zinc-600">
-              Outside of all this, I enjoy writing and occasionally share my thoughts on <a href="https://medium.com/@anuradha.pandey" target="_blank" rel="noopener noreferrer">Medium</a> – feel free to check them out if you're curious.
+              Outside of all this, I enjoy writing and occasionally share my thoughts on <a href="https://medium.com/@anuradha.pandey" target="_blank" rel="noopener noreferrer">Medium</a> – feel free to check them out if you&apos;re curious.
             </p>
           </div>
 

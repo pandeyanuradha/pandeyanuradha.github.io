@@ -23,7 +23,7 @@ export default function BlogsPage() {
               </h2>
               <p className="text-gray-500 text-sm mb-3">April 21, 2022</p>
               <p className="text-gray-700 mb-4">
-                This is one piece of advice we've heard for ages, but how many times have you followed it? 
+                This is one piece of advice we&apos;ve heard for ages, but how many times have you followed it? 
                 Sharing my experience where I was helped by others, I reflect on the importance of helping others and making a positive impact in our communities.
               </p>
               <a href="https://medium.com/@anuradha.pandey" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center gap-1">
@@ -72,7 +72,7 @@ export default function BlogsPage() {
               <p className="text-gray-500 text-sm mb-3">August 31, 2021</p>
               <p className="text-gray-700 mb-4">
                 A comprehensive guide for students looking to participate in Google Summer of Code.
-                Learnings from my journey of being an Open Source and GSoC '21 contributor. 
+                Learnings from my journey of being an Open Source and GSoC &apos;21 contributor. 
               </p>
               <a href="https://medium.com/@anuradha.pandey" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center gap-1">
                 Read on Medium 

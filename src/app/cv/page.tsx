@@ -13,7 +13,7 @@ export default function CVPage() {
             title="Anuradha Pandey - Curriculum Vitae"
           >
             <div className="flex flex-col items-center justify-center h-full bg-gray-50 text-gray-500">
-              <p className="text-lg font-medium mb-4">Your browser doesn't support PDF viewing</p>
+              <p className="text-lg font-medium mb-4">Your browser doesn&apos;t support PDF viewing</p>
               <a 
                 href="/cv/Anuradha_Pandey_CV.pdf" 
                 target="_blank" 

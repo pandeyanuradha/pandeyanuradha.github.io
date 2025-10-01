@@ -38,7 +38,7 @@ export default function WorkExperiencePage() {
       duration: "Jan '23 - June '23",
       role: "Research Intern (Machine Learning)",
       project: "iOS Integrations",
-      description: "Developed and deployed ML models to classify and filter spam across Apple's messaging platforms, including iMessage and Mail. These features are integrated into current products, being used by millions of users worldwide.",
+      description: "Developed and deployed ML models to classify and filter spam across Apple&apos;s messaging platforms, including iMessage and Mail. These features are integrated into current products, being used by millions of users worldwide.",
       // description: "Worked on building ML models to classify and filter spam across Apple’s messaging platforms, such as emails and iMessages, improving user safety and communication reliability.",
       year: "2023",
       logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
