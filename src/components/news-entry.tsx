@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
-import { News } from "@/data/news";
+import { NewsItem } from "@/data/news";
 
-export function NewsEntry({ news }: { news: News }) {
+export function NewsEntry({ news }: { news: NewsItem }) {
   return (
     <div className="flex flex-row gap-6">
       <div className="flex flex-col flex-1">
